@@ -94,6 +94,7 @@ Hatalı veya eksik verilerin düzeltilmesi. İmputerlar kullanılabilir.
 Veriseti belirli yüzdelerde test ve train olarak ikiye bölünür.
 *	Özellik Çıkarımı
 Veriden özellikler çıkarılır, ona göre işlemler yapılır
+
 2.	### Model Oluşturma
 Özelliklerin belirlenmesinden sonra model çıkarılmaya başlar ve belirli bir kural dizisi çıkarılmaya başlanır.
 3.	### Değerlendirme
