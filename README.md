@@ -1,4 +1,4 @@
-# Yapay Zekaya Giriş Rehberi Özet Rapor
+# AISECLAB Ara ödev-Cihan Özhan/Yapay Zeka Başlangıç Rehberi
 ## Yapay Zeka Nedir?
 Yapay zeka bir biyomimetik konusudur. Biyomimetik (biyotaklit): Doğada bulunan varlıkların hareketlerinin, davranışlarının veya özelliklerinin matematik, kimya, bilgisayar veya fizik gibi bilimlere uyarlanarak teknolojik bir ürün şeklinde insan kullanımına açılması, insan beyninin, anlama ve düşünme eylemlerinin kopyalanarak bilgisayara uyarlanmasıdır. [1]
 
